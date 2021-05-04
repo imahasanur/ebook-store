@@ -1,12 +1,34 @@
-# Book Store App
+# Ebook Store web app(client side)
 
-This project live link[book-store](https://book-store-1b689.firebaseapp.com/).
+A online ebook store site where an admin can add book or delete book to store, any user after login can give order and show total order
 
-## Used tools
+## Features
 
-Used bootstrap5, html5 , css3, react , react router, react hook form, font-awesome, monogodb, firebase, nodejs
+There are two panels. 1.User, 2.Admin 
 
-### Description
+User panel:
+An logged in user can perform these tasks:
+1. An user can order any book.
+2. An user can see total price in his booking list.
+3. An user can order any amount time a specific book.
 
-A online book store site when an admin can add book or delete book to store, any user after login can give order and show total order
+Admin panel:
+1. An admin can add a book for order in store
+2. An admin can delete any book from store.
 
+
+## Used Technology
+
+Client side: Bootstrap5, Html5, Css3, React js, React Router DOM, React Hook Form, FontAwesome
+
+Server side: Node js, Express js, Monogo DB atlas(database), Firebase(hosting client), Heroku(hosting server)
+
+## Live site 
+
+live site link[book-store](https://book-store-1b689.firebaseapp.com/)
+
+
+## Connect with me
+portfolio site[ahasanur-rahman.com](https://ahasanur-rahman.web.app/)
+
+linkedin profile[linkedin.com/ahasanur-rahman](https://www.linkedin.com/in/ahasanur-rahman-a10925202/)
